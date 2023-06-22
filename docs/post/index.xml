@@ -8,6 +8,15 @@
     <language>en-US</language>
     <lastBuildDate>Thu, 22 Jun 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://santiagosilvestrini.github.io/github-pages-test01/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Subiendo un Nuevo Post</title>
+      <link>https://santiagosilvestrini.github.io/github-pages-test01/2023/06/22/subiendo-un-nuevo-post/</link>
+      <pubDate>Thu, 22 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://santiagosilvestrini.github.io/github-pages-test01/2023/06/22/subiendo-un-nuevo-post/</guid>
+      <description>Subtitlo para el Post.. Algo de contenido con markdown.</description>
+    </item>
+    
+    <item>
       <title>Utilizando Github Pages</title>
       <link>https://santiagosilvestrini.github.io/github-pages-test01/2023/06/22/utilizando-github-pages/</link>
       <pubDate>Thu, 22 Jun 2023 00:00:00 +0000</pubDate>

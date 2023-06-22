@@ -1,7 +1,7 @@
 baseurl: https://santiagosilvestrini.github.io/github-pages-test01/
 languageCode: en-US
 title: Mi Página en Github!
-publishdir: sitio
+publishdir: docs
 theme: hugo-lithium
 googleAnalytics: ''
 disqusShortname: ''
