@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>tips on Mi Página en Github!</title>
+    <link>https://santiagosilvestrini.github.io/github-pages-test01/categories/tips/</link>
+    <description>Recent content in tips on Mi Página en Github!</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 22 Jun 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://santiagosilvestrini.github.io/github-pages-test01/categories/tips/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Utilizando Github Pages</title>
+      <link>https://santiagosilvestrini.github.io/github-pages-test01/2023/06/22/utilizando-github-pages/</link>
+      <pubDate>Thu, 22 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://santiagosilvestrini.github.io/github-pages-test01/2023/06/22/utilizando-github-pages/</guid>
+      <description>Utilizando Github Pages Instalar Paquetes blogdown y hugo Crear Proyecto del tipo Blogdown en RStudio Desde Github Desktop seleccionar Add Local Repository Convertir el directorio a un repositorio GIT Publicar el Repositorio en Github </description>
+    </item>
+    
+  </channel>
+</rss>

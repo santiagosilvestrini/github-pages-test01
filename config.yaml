@@ -1,6 +1,7 @@
-baseurl: /
+baseurl: https://santiagosilvestrini.github.io/github-pages-test01/
 languageCode: en-US
-title: A Hugo website
+title: Mi Página en Github!
+publishdir: sitio
 theme: hugo-lithium
 googleAnalytics: ''
 disqusShortname: ''
